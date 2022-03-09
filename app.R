@@ -3,6 +3,7 @@ library(shinydashboard)
 library(tidyverse)
 library(ggplot2)
 library(plotly)
+library(ggtext)
 library(datasets)
 
 states <- map_data("state")
